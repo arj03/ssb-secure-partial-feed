@@ -20,6 +20,6 @@ Creates two messages for partial contact & profile state if they don't exists an
 
 Checks if a profile has created the two messages for partial contact & profile state.
 
-## UpdatePartial()
+## UpdatePartial(feedId)
 
 Ensures that the state of contact and profile is current with the feed.
